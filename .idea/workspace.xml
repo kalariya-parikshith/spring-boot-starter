@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="421c8792-56b6-46cd-91ac-ba60f2cc71a3" name="Default" comment="comment">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kp.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/kp/CourseApiApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kp/CourseApiApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/org.kp.com/kp/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/org.kp.com/kp/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/kp/CourseApiApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/kp/CourseApiApp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/kp/hello/HelloController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/kp/hello/HelloController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/kp/topic/Topic.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/kp/topic/Topic.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/kp/topic/TopicController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/kp/topic/TopicController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/kp/topic/TopicService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/kp/topic/TopicService.class" afterDir="false" />
-    </list>
+    <list default="true" id="421c8792-56b6-46cd-91ac-ba60f2cc71a3" name="Default" comment="comment" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -25,7 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor" />
@@ -34,8 +20,8 @@
       <file leaf-file-name="CourseApiApp.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/kp/CourseApiApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+            <state relative-caret-position="195">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -64,9 +50,14 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="new_branch" />
+        <entry key="$PROJECT_DIR$" value="balram" />
       </map>
     </option>
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="master" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="kalariya-parikshith" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="spring-boot-starter" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -262,6 +253,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.CourseApiApp" />
+        <item itemvalue="Application.CourseApiApp" />
+        <item itemvalue="Application.CourseApiApp" />
+        <item itemvalue="Application.CourseApiApp" />
+        <item itemvalue="Application.CourseApiApp" />
       </list>
     </recent_temporary>
   </component>
@@ -295,22 +290,21 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1366" height="743" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" sideWeight="0.49924242" visible="true" weight="0.3295082" />
+      <window_info anchor="bottom" id="Messages" sideWeight="0.49924242" weight="0.3295082" />
       <window_info anchor="right" id="Palette&#9;" />
       <window_info id="Image Layers" />
       <window_info anchor="right" id="Capture Analysis" />
-      <window_info active="true" anchor="bottom" id="Event Log" sideWeight="0.5007576" side_tool="true" visible="true" weight="0.3295082" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.5007576" side_tool="true" weight="0.4180328" />
       <window_info anchor="right" id="Maven Projects" weight="0.32954547" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3295082" />
-      <window_info anchor="bottom" id="Terminal" weight="0.07704918" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924242" weight="0.3295082" />
+      <window_info anchor="bottom" id="Terminal" sideWeight="0.49924242" visible="true" weight="0.4180328" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" />
@@ -345,8 +339,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/kp/CourseApiApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+        <state relative-caret-position="195">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
