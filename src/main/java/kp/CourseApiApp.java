@@ -8,10 +8,6 @@ public class CourseApiApp {
 
 	public static void main(String[] args) {
 		SpringApplication.run(CourseApiApp.class, args);
-		System.out.println("hellooo");
+		System.out.println("hellooo balram");
 	}
-	//hcdddddfgcg
-
-
-	////seconddddddddddddddddd
 }
